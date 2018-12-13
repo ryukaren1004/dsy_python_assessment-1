@@ -38,7 +38,7 @@ The repository has the following folder structure:
  * Needs **Python2.7 or greater**    
      * you can check your python version by running this: `python -V`    
 
- * This section in the assessment can be tested using the unit tests. You can run the tests with this command from the root directory (assessment-day1/):    
+ * This section in the assessment can be tested using the unit tests. You can run the tests with this command from the root directory (dsy_python_assessment-1/):    
 
     `make test`
 
