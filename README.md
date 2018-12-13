@@ -29,7 +29,7 @@ The repository has the following folder structure:
         └── unittests.py
 
 
-* If you need help forking, cloning and pulling with git, look at the instructions in the precourse: [How to Submit](https://github.com/alexseong/dsy_python_programming#how-to-submit)
+* If you need help forking, cloning and pulling with git, look at the instructions in the precourse: [How to Submit](https://github.com/alexseong/dsy_python_programming#how-to-submit-the-assignments)
 
 1. `src/assessment.py` contains function stubs for you to fill in. The goal is to make the tests pass. There are 12 problems in the file.
 
