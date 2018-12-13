@@ -1,8 +1,8 @@
 # Assessment #1
 
-Welcome to our first assessment! You will have 120 minutes to complete the assignment at which time you will be asked to submit a pull request.
+Welcome to our first assessment! You will have 50 minutes to complete the assignment at which time you will be asked to submit a pull request.
 
-* Time: 120 minutes
+* Time: 50 minutes
 * Open book
 * Individual
 
@@ -10,13 +10,8 @@ Welcome to our first assessment! You will have 120 minutes to complete the assig
 
 The goal of this assignment is to fill in each function stub to make the associated test pass.
 
-There are 21 questions over these topics in this order:
+There are 4 questions over these topics in this order:
 * general Python (4 questions)
-* probability (1 question)
-* numpy (2 questions)
-* pandas (2 questions)
-* SQL (3 questions)
-* Math (9 questions)
 
 The repository has the following folder structure:
 
@@ -29,15 +24,12 @@ The repository has the following folder structure:
     ├── data
     │   ├── alice.txt
     │   ├── markets.sql
-    ├── test
-    │   ├── __init__.py
-    │   └── unittests.py
-    └── math
-        ├── math_assessment.pdf
-        └── math_assessment.txt
+    └── test
+        ├── __init__.py
+        └── unittests.py
 
 
-* If you need help forking, cloning and pulling with git, look at the instructions in the precourse: [How to Submit](https://github.com/zipfian/precourse#how-to-submit)
+* If you need help forking, cloning and pulling with git, look at the instructions in the precourse: [How to Submit](https://github.com/alexseong/dsy_python_programming#how-to-submit)
 
 1. `src/assessment.py` contains function stubs for you to fill in. The goal is to make the tests pass. There are 12 problems in the file.
 
