@@ -34,7 +34,7 @@ The repository has the following folder structure:
 
 
 2. The questions for the math portion of the assessment are in
-  `math/math_assessment.txt`. Put your answers in `math_assessment.txt`.
+  `math/math_assessment.pdf`. Put your answers in `math_assessment.txt`.
 
 * At the end of 30 minutes, submit a pull request.
 
