@@ -1,0 +1,21 @@
+Math Assessment
+
+Refer to `math_assessment.pdf` for the questions. Please type your answers under
+each prompt in this document.
+
+
+Answer 1 : 
+    
+    20 + 21 + 22 =
+
+
+
+Answer 2 :
+
+     What is the biggest number?
+     What is the smallest number?
+     How many numbers above list has?
+
+Answer 3 :
+
+     What is the sum of above numbers?     What is the average of above numbers?
