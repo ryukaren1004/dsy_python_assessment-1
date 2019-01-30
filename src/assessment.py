@@ -7,7 +7,7 @@ Write your code under the commented(#) question. Replace the pass with your code
 
 pass
 
-
+print(2**0 + 2**1 + 2**2)
 
 ### Question2
 ### Calculate the sum of list A and print it
@@ -15,3 +15,7 @@ pass
 A = [17, 14, 14, 14, 16, 15, 16, 14, 15, 13, 18, 13]
 
 pass
+x = sum(A)
+print(x)
+
+print('Karen Ryu')
